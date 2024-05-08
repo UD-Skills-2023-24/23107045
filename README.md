@@ -1,1 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YmApcLfC)
+This document includes: 
+Kmeans code to classify the landuse 
+Unet code to extract building boundary + land classification 
+Pix2pix code to predict road network extension + building boundary on the river
+
+This code facilitates site analysis and site selection, as well as preliminary design generation.
